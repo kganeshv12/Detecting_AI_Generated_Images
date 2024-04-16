@@ -28,7 +28,8 @@ There are 100,000 images for training (50k per class) and 20,000 for testing (10
 CIFAKE is a dataset that contains 60,000 synthetically-generated images and 60,000 real images (collected from CIFAR-10). 
 
 ## Models
-Explain the architectures of both CNN and ViT models used in the project. Include details such as the number of layers, parameters, and any modifications made to the original architectures.
+The following are the CNNs as well as the ViTs used in our research:
+
 
 | CNNs                 | 
 |------------------------------|
