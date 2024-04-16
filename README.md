@@ -30,22 +30,26 @@ CIFAKE is a dataset that contains 60,000 synthetically-generated images and 60,0
 ## Models
 Explain the architectures of both CNN and ViT models used in the project. Include details such as the number of layers, parameters, and any modifications made to the original architectures.
 
-| Model Name                   | 
+| CNNs                 | 
 |------------------------------|
-| CNN_EfficientNetB4   | 
-| CNN_EfficientNetB5.ipynb    |
-| CNN_EfficientNetB6.ipynb    |
-| CNN_InceptionV3.ipynb       |
-| CNN_MobileNetV2.ipynb       |
-| CNN_MobileNetV3.ipynb       |
-| CNN_ResNet101V2.ipynb       |
-| CNN_VGG16.ipynb             |
-| vit-amunchet-rorshark-vit-base.ipynb |
-| vit-base-patch16-224.ipynb  |     
-| vit-base-patch32-384.ipynb  |    
-| vit-google-vit-base-patch16-224-in21k.ipynb |  
-| vit-tiny-patch16-224.ipynb  |     
-| vit_dima806.ipynb           |
+| EfficientNetB4   | 
+| EfficientNetB5    |
+| EfficientNetB6   |
+| InceptionV3      |
+| MobileNetV2       |
+| MobileNetV3      |
+| ResNet101V2      |
+| VGG16         |
+
+
+| ViTs                | 
+|------------------------------|
+| amunchet-rorshark-vit-base|
+| base-patch16-224  |     
+| base-patch32-384.ipynb  |    
+| google-vit-base-patch16-224-in21k |  
+| tiny-patch16-224  |     
+| dima806          |
 
 ## Results
 We present the results of the model comparison, including accuracy, precision & recall.
