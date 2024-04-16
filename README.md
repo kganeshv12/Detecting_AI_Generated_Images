@@ -3,6 +3,8 @@
 ## Overview
 This repository contains the implementation and comparison of Convolutional Neural Networks (CNN) and Vision Transformers (ViT) for the classification of AI and real data. The goal is to explore the performance differences between these two popular architectures in the field of computer vision.
 
+![Sample Image](comparison_chart.jpg)
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Dataset](#dataset)
@@ -82,4 +84,4 @@ The best performing model is :
 and on an average CNNs perform better than ViTs
 
 
-![Sample Image](comparison_chart.jpg)
+
