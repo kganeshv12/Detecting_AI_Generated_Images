@@ -82,12 +82,12 @@ We present the results of the model comparison, including accuracy, precision & 
 | CNN_MobileNetV3.ipynb       | | -          | -      |     |
 | CNN_ResNet101V2.ipynb       | | -          | -      | |
 | CNN_VGG16.ipynb             |   | -          | -      |     |
-| vit-amunchet-rorshark-vit-base.ipynb |  | - | - |  |
-| vit-base-patch16-224.ipynb  |     | -          | -      |  |
-| vit-base-patch32-384.ipynb  |    | -          | -      |  |
-| vit-google-vit-base-patch16-224-in21k.ipynb |  | - | - |  |
-| vit-tiny-patch16-224.ipynb  |     | -          | -      |  |
-| vit_dima806.ipynb           | -            | -          | -      | -              |
+| vit-amunchet-rorshark-vit-base.ipynb | 66.95 | 67.9| 66.95 | 85.8  |
+| vit-base-patch16-224.ipynb  |   72.35  | 72.29          |   72.35    |86.6  |
+| vit-base-patch32-384.ipynb  |  73.65  | 74.61          | 73.65     | 88.3 |
+| vit-google-vit-base-patch16-224-in21k.ipynb | 55.5  | 69.2| 55.5 | 86.4 |
+| vit-tiny-patch16-224.ipynb  |   83.66  | 84.44          | 83.66      | 5.72 |
+| vit_dima806.ipynb           | 98.37           | 98.37         |  98.37     | 85.8           |
 
 
 ## Conclusion
