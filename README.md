@@ -50,14 +50,14 @@ The following are the CNNs as well as the ViTs used in our research:
 
 | CNNs                 | 
 |------------------------------|
-| EfficientNetB4   | 
-| EfficientNetB5    |
-| EfficientNetB6   |
-| InceptionV3      |
-| MobileNetV2       |
-| MobileNetV3      |
-| ResNet101V2      |
-| VGG16         |
+| EfficientNetB4              | 
+| EfficientNetB5             |
+| EfficientNetB6            |
+| InceptionV3               |
+| MobileNetV2               |
+| MobileNetV3              |
+| ResNet101V2              |
+| VGG16                     |
 
 
 | ViTs                | 
