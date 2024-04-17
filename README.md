@@ -5,6 +5,9 @@ This repository contains the implementation and comparison of Convolutional Neur
 
 ![Sample Image](comparison_chart.jpg)
 
+
+![Original Result](original_result.jpg)
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Dataset](#dataset)
