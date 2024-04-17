@@ -12,6 +12,9 @@ This repository contains the implementation and comparison of Convolutional Neur
 ## Working of Depth-Wise Separable Convolution
 ![depthwise separable Result](/depthwise-separable-convolution-animation-3x3-kernel.gif)
 
+## EfficientNet Architecture
+![EfficientNet Architecture](/efnet_arch.png)
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Dataset](#dataset)
