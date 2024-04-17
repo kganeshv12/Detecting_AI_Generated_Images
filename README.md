@@ -97,7 +97,7 @@ We present the results of the model comparison, including accuracy, precision & 
 
 From our experiments we can conclude that:
 
-The best performing model is : 
+The best performing model is : **EfficientNetB5** and **Dima806**
 
 and on an average CNNs perform better than ViTs
 
