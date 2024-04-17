@@ -72,16 +72,16 @@ The following are the CNNs as well as the ViTs used in our research:
 ## Results
 We present the results of the model comparison, including accuracy, precision & recall.
 
-| Model Name                   | Accuracy | Precision | Recall | Parameters |
+| Model Name                   | Accuracy | Precision | Recall | Parameters(M) |
 |------------------------------|----------|-----------|--------|------------|
-| CNN_EfficientNetB4.ipynb    |     | -          | -      |    |
-| CNN_EfficientNetB5.ipynb    |      | -          | -      |     |
-| CNN_EfficientNetB6.ipynb    |      | -          | -      |     |
-| CNN_InceptionV3.ipynb       |   | -          | -      |  |
-| CNN_MobileNetV2.ipynb       | | -          | -      |     |
-| CNN_MobileNetV3.ipynb       | | -          | -      |     |
-| CNN_ResNet101V2.ipynb       | | -          | -      | |
-| CNN_VGG16.ipynb             |   | -          | -      |     |
+| CNN_EfficientNetB4.ipynb    |  97.35   | 96.08          | 98.72      | 18.15   |
+| CNN_EfficientNetB5.ipynb    |  97.54   |  97.41         | 97.69      |  29.06   |
+| CNN_EfficientNetB6.ipynb    |    96.29  | 98.89          | 93.64      | 41.57    |
+| CNN_InceptionV3.ipynb       |   96.31| 95.95          | 96.7      | 22.35 |
+| CNN_MobileNetV2.ipynb       | 93.36| 92.54          | 94.32      | 2.6    |
+| CNN_MobileNetV3.ipynb       | 96.47| 97.49          | 95.4      |3.26     |
+| CNN_ResNet101V2.ipynb       | 95.15| 95.64          | 94.61      |43.17 |
+| CNN_VGG16.ipynb             |   96.57| 97.24          | 95.86      | 14.86    |
 | vit-amunchet-rorshark-vit-base.ipynb | 66.95 | 67.9| 66.95 | 85.8  |
 | vit-base-patch16-224.ipynb  |   72.35  | 72.29          |   72.35    |86.6  |
 | vit-base-patch32-384.ipynb  |  73.65  | 74.61          | 73.65     | 88.3 |
