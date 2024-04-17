@@ -42,6 +42,11 @@ CIFAKE is a dataset that contains 60,000 synthetically-generated images and 60,0
 ## Models
 The following are the CNNs as well as the ViTs used in our research:
 
+[Click here](https://keras.io/api/applications/) to visit Keras CNN models website.
+
+[Click here](https://huggingface.co/models?pipeline_tag=image-classification&sort=trending&search=vit) to visit HuggingFace ViT models website.
+
+
 
 | CNNs                 | 
 |------------------------------|
