@@ -3,12 +3,13 @@
 ## Overview
 This repository contains the implementation and comparison of Convolutional Neural Networks (CNN) and Vision Transformers (ViT) for the classification of AI and real data. The goal is to explore the performance differences between these two popular architectures in the field of computer vision.
 
+## Sample Comparison of CNNs
 ![Sample Image](comparison_chart.jpg)
 
-
+## Results Achieved in Research Paper
 ![Original Result](original_result.jpg)
 
-
+## Working of Depth-Wise Separable Convolution
 ![depthwise separable Result](/depthwise-separable-convolution-animation-3x3-kernel.gif)
 
 ## Table of Contents
