@@ -8,6 +8,9 @@ This repository contains the implementation and comparison of Convolutional Neur
 
 ![Original Result](original_result.jpg)
 
+
+![depthwise separable Result](/depthwise-separable-convolution-animation-3x3-kernel.gif)
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Dataset](#dataset)
