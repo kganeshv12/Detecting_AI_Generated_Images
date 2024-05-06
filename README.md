@@ -90,11 +90,14 @@ We present the results of the model comparison, including accuracy, precision & 
 | vit_dima806.ipynb           | 98.37           | 98.37         |  98.37     | 85.8           |
 
 
+![Our Results](/scatter-plot.svg)
+
+
 ## Conclusion
 
 From our experiments we can conclude that:
 
-The best performing model is : 
+The best performing model is : **EfficientNetB5** and **Dima806**
 
 and on an average CNNs perform better than ViTs
 
