@@ -1,5 +1,15 @@
 # CNN vs ViT for AI and Real Image Classification
 
+```
+Ganesh Vaidyanathan K
+ShauryadeepSinh G R
+K Siddharth Rao
+Pushparaj Shetty
+Mentor : Dr. Shylaja S
+```
+
+Final Project submission for the course Topics in Deep Learning, PES University.
+
 ## Overview
 This repository contains the implementation and comparison of Convolutional Neural Networks (CNN) and Vision Transformers (ViT) for the classification of AI and real data. The goal is to explore the performance differences between these two popular architectures in the field of computer vision.
 
